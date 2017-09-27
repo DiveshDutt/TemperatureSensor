@@ -1,7 +1,7 @@
 /**
  ******************************************************************************
  *  File Name     : main.c
- *  PROJECT       : PROG8125 -Assignment #3*
+ *  PROJECT       : Temperature Sensor -Assignment #3*
  *  PROGRAMMER    : DIVESH DUTT*
  *  FIRST VERSION : 2017-07-05*
  *  DESCRIPTION   :*The functions in this file are used to displays the
